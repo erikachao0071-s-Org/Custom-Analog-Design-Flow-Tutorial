@@ -1,0 +1,2 @@
+# Custom-Analog-Design-Flow-Tutorial
+The goal of this tutorial is to get you introduced to custom analog design flow using Synopsys Custom Design Platform. This tutorial uses Synopsys tools such as Custom Compiler, PrimeWave Design Environment, PrimeSim Continuum, IC Validator, StarRC, and is based on an OPAMP design that uses Synopsys 14nm Interoperable PDK. Some of the main topics covered in this tutorial are: Schematic Design, Symbol Creation, Simulation and Analysis, Layout Design, Schematic Driven Layout, Physical Verification, and Parasitics
